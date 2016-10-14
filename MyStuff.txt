@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Yup I added this file as Test_1
+=======
+I wrote this file as Test_2
+>>>>>>> Test_2
